@@ -26,6 +26,7 @@ gem 'devise'
 #Use bootstrap for design
 gem 'bootstrap', '~> 4.1', '>= 4.1.1'
 gem 'jquery-rails'
+gem 'toastr-rails'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
