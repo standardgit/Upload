@@ -27,6 +27,7 @@ gem 'devise'
 gem 'bootstrap', '~> 4.1', '>= 4.1.1'
 gem 'jquery-rails'
 gem 'toastr-rails'
+gem 'omniauth-facebook'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
