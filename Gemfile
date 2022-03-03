@@ -28,7 +28,7 @@ gem 'bootstrap', '~> 4.1', '>= 4.1.1'
 gem 'jquery-rails'
 gem 'toastr-rails'
 gem 'omniauth', '~> 2.0', '>= 2.0.4'
-gem 'omniauth-twitter'
+gem 'omniauth-twitter', '~> 1.4'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
