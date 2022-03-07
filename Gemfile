@@ -29,6 +29,9 @@ gem 'jquery-rails'
 gem 'toastr-rails'
 gem 'omniauth', '~> 2.0', '>= 2.0.4'
 gem 'omniauth-twitter', '~> 1.4'
+gem 'carrierwave', '~> 2.2', '>= 2.2.2'
+gem 'aws-sdk', '~> 3.1', require: false
+gem 'fog-aws' 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
